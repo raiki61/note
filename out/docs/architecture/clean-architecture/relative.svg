@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="621px" preserveAspectRatio="none" style="width:1284px;height:621px;background:#FFFFFF;" version="1.1" viewBox="0 0 1284 621" width="1284px" zoomAndPan="magnify"><defs/><g><!--MD5=[114f4823940f317c08f5bedd633c9afd]
+cluster Entities--><g id="cluster_Entities"><path d="M8.5,6 L62.5,6 A3.75,3.75 0 0 1 65,8.5 L72,29.6094 L115.5,29.6094 A2.5,2.5 0 0 1 118,32.1094 L118,395.5 A2.5,2.5 0 0 1 115.5,398 L8.5,398 A2.5,2.5 0 0 1 6,395.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="72" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="10" y="22.5332">Entities</text></g><!--MD5=[c6348f98a6dbaaa41a93f16d8bef2fde]
+cluster Use Cases--><g id="cluster_Use Cases"><path d="M390.5,6 L465.5,6 A3.75,3.75 0 0 1 468,8.5 L475,29.6094 L805.5,29.6094 A2.5,2.5 0 0 1 808,32.1094 L808,103.5 A2.5,2.5 0 0 1 805.5,106 L390.5,106 A2.5,2.5 0 0 1 388,103.5 L388,8.5 A2.5,2.5 0 0 1 390.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="388" x2="475" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="74" x="392" y="22.5332">Use Cases</text></g><!--MD5=[5a2c09c7a25dd2d50c87c8f70ce7edbd]
+cluster Interface Adapters--><g id="cluster_Interface Adapters"><path d="M144.5,130 L275.5,130 A3.75,3.75 0 0 1 278,132.5 L285,153.6094 L1051.5,153.6094 A2.5,2.5 0 0 1 1054,156.1094 L1054,419.5 A2.5,2.5 0 0 1 1051.5,422 L144.5,422 A2.5,2.5 0 0 1 142,419.5 L142,132.5 A2.5,2.5 0 0 1 144.5,130 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="142" x2="285" y1="153.6094" y2="153.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="130" x="146" y="146.5332">Interface Adapters</text></g><!--MD5=[0525423066631da0d3b80af306d70106]
+cluster Presenters--><g id="cluster_Presenters"><path d="M612.5,174 L691.5,174 A3.75,3.75 0 0 1 694,176.5 L701,197.6094 L1027.5,197.6094 A2.5,2.5 0 0 1 1030,200.1094 L1030,271.5 A2.5,2.5 0 0 1 1027.5,274 L612.5,274 A2.5,2.5 0 0 1 610,271.5 L610,176.5 A2.5,2.5 0 0 1 612.5,174 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="610" x2="701" y1="197.6094" y2="197.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="614" y="190.5332">Presenters</text></g><!--MD5=[ed1d20ea533a2a0e7df5ba3c35e56ced]
+cluster Controllers--><g id="cluster_Controllers"><path d="M168.5,174 L248.5,174 A3.75,3.75 0 0 1 251,176.5 L258,197.6094 L583.5,197.6094 A2.5,2.5 0 0 1 586,200.1094 L586,271.5 A2.5,2.5 0 0 1 583.5,274 L168.5,274 A2.5,2.5 0 0 1 166,271.5 L166,176.5 A2.5,2.5 0 0 1 168.5,174 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="166" x2="258" y1="197.6094" y2="197.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="170" y="190.5332">Controllers</text></g><!--MD5=[3fb9233493883f849c74676ff31c788a]
+cluster Gateways--><g id="cluster_Gateways"><path d="M622.5,298 L690.5,298 A3.75,3.75 0 0 1 693,300.5 L700,321.6094 L1017.5,321.6094 A2.5,2.5 0 0 1 1020,324.1094 L1020,395.5 A2.5,2.5 0 0 1 1017.5,398 L622.5,398 A2.5,2.5 0 0 1 620,395.5 L620,300.5 A2.5,2.5 0 0 1 622.5,298 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="620" x2="700" y1="321.6094" y2="321.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="67" x="624" y="314.5332">Gateways</text></g><!--MD5=[11afc37be846326cf1bc60f6c656d5a6]
+cluster Frameworks & Drivers--><g id="cluster_Frameworks &amp; Drivers"><path d="M413.5,446 L570.5,446 A3.75,3.75 0 0 1 573,448.5 L580,469.6094 L1274.5,469.6094 A2.5,2.5 0 0 1 1277,472.1094 L1277,611.5 A2.5,2.5 0 0 1 1274.5,614 L413.5,614 A2.5,2.5 0 0 1 411,611.5 L411,448.5 A2.5,2.5 0 0 1 413.5,446 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="411" x2="580" y1="469.6094" y2="469.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="156" x="415" y="462.5332">Frameworks &amp; Drivers</text></g><!--MD5=[e69828dec1dbb2627e683807b1b11ce9]
+cluster Frameworks--><g id="cluster_Frameworks"><path d="M807.5,490 L894.5,490 A3.75,3.75 0 0 1 897,492.5 L904,513.6094 L1250.5,513.6094 A2.5,2.5 0 0 1 1253,516.1094 L1253,587.5 A2.5,2.5 0 0 1 1250.5,590 L807.5,590 A2.5,2.5 0 0 1 805,587.5 L805,492.5 A2.5,2.5 0 0 1 807.5,490 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="805" x2="904" y1="513.6094" y2="513.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="86" x="809" y="506.5332">Frameworks</text></g><!--MD5=[06d07874b31b21c282b1021122bda260]
+cluster Drivers--><g id="cluster_Drivers"><path d="M437.5,490 L490.5,490 A3.75,3.75 0 0 1 493,492.5 L500,513.6094 L778.5,513.6094 A2.5,2.5 0 0 1 781,516.1094 L781,587.5 A2.5,2.5 0 0 1 778.5,590 L437.5,590 A2.5,2.5 0 0 1 435,587.5 L435,492.5 A2.5,2.5 0 0 1 437.5,490 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="435" x2="500" y1="513.6094" y2="513.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="52" x="439" y="506.5332">Drivers</text></g><!--MD5=[fedd6cfecd176d295c4211156138d123]
+class Entity1--><g id="elem_Entity1"><rect codeLine="9" fill="#F1F1F1" height="48" id="Entity1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="22.5" y="42"/><ellipse cx="37.5" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M40.2031,63.4375 Q39.2813,64.3594 37.0156,64.3594 Q35.75,64.3594 34.8281,63.4375 Q33.1719,61.7813 33.1719,58.25 Q33.1719,54.1406 34.9531,52.3438 Q35.8906,51.4219 37.0781,51.4219 Q39.3438,51.4219 40.0781,52.1406 Q41.4688,53.5469 41.4063,55.9375 L38.9375,55.9375 Q38.875,53.8125 38.1406,53.0781 Q37.75,52.6719 37.0781,52.6719 Q37.0781,52.6719 37.0156,53.1406 Q35.6875,54.4688 35.6875,58.125 Q35.6875,61.3125 36.8281,62.4375 Q37.3594,62.9688 37.3594,62.9688 Q37.6094,62.9688 38.1406,62.4375 Q38.8125,61.7813 38.875,59.3906 L41.4688,59.3906 Q41.2656,62.375 40.2031,63.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="51.5" y="63.7285">Entity 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="74" y2="74"/><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="82" y2="82"/></g><!--MD5=[b21c70fe6a14459e4dd5ffb35c099053]
+class Entity2--><g id="elem_Entity2"><rect codeLine="10" fill="#F1F1F1" height="48" id="Entity2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="22.5" y="210"/><ellipse cx="37.5" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M40.2031,231.4375 Q39.2813,232.3594 37.0156,232.3594 Q35.75,232.3594 34.8281,231.4375 Q33.1719,229.7813 33.1719,226.25 Q33.1719,222.1406 34.9531,220.3438 Q35.8906,219.4219 37.0781,219.4219 Q39.3438,219.4219 40.0781,220.1406 Q41.4688,221.5469 41.4063,223.9375 L38.9375,223.9375 Q38.875,221.8125 38.1406,221.0781 Q37.75,220.6719 37.0781,220.6719 Q37.0781,220.6719 37.0156,221.1406 Q35.6875,222.4688 35.6875,226.125 Q35.6875,229.3125 36.8281,230.4375 Q37.3594,230.9688 37.3594,230.9688 Q37.6094,230.9688 38.1406,230.4375 Q38.8125,229.7813 38.875,227.3906 L41.4688,227.3906 Q41.2656,230.375 40.2031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="51.5" y="231.7285">Entity 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="250" y2="250"/></g><!--MD5=[8accb30a0299cfe64986e25573e29245]
+class Entity3--><g id="elem_Entity3"><rect codeLine="11" fill="#F1F1F1" height="48" id="Entity3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="22.5" y="334"/><ellipse cx="37.5" cy="350" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M40.2031,355.4375 Q39.2813,356.3594 37.0156,356.3594 Q35.75,356.3594 34.8281,355.4375 Q33.1719,353.7813 33.1719,350.25 Q33.1719,346.1406 34.9531,344.3438 Q35.8906,343.4219 37.0781,343.4219 Q39.3438,343.4219 40.0781,344.1406 Q41.4688,345.5469 41.4063,347.9375 L38.9375,347.9375 Q38.875,345.8125 38.1406,345.0781 Q37.75,344.6719 37.0781,344.6719 Q37.0781,344.6719 37.0156,345.1406 Q35.6875,346.4688 35.6875,350.125 Q35.6875,353.3125 36.8281,354.4375 Q37.3594,354.9688 37.3594,354.9688 Q37.6094,354.9688 38.1406,354.4375 Q38.8125,353.7813 38.875,351.3906 L41.4688,351.3906 Q41.2656,354.375 40.2031,355.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="51.5" y="355.7285">Entity 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="366" y2="366"/><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="100.5" y1="374" y2="374"/></g><!--MD5=[ed19e2c4cd91214afd1afc497bba70f0]
+class UseCase1--><g id="elem_UseCase1"><rect codeLine="15" fill="#F1F1F1" height="48" id="UseCase1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="686" y="42"/><ellipse cx="701" cy="58" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M701.9844,62.9063 L702.7188,62.9063 L702.7188,64.3594 L698.7188,64.3594 L698.7188,62.9063 L699.4531,62.9063 L699.4531,52.875 L698.7188,52.875 L698.7188,51.4219 L702.7188,51.4219 L702.7188,52.875 L701.9844,52.875 L701.9844,62.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="74" x="715" y="63.7285">Use Case 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="687" x2="791" y1="74" y2="74"/><line style="stroke:#181818;stroke-width:0.5;" x1="687" x2="791" y1="82" y2="82"/></g><!--MD5=[b35a2a0fbc1108900b9de51e908a33c0]
+class UseCase2--><g id="elem_UseCase2"><rect codeLine="16" fill="#F1F1F1" height="48" id="UseCase2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="545" y="42"/><ellipse cx="560" cy="58" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M560.9844,62.9063 L561.7188,62.9063 L561.7188,64.3594 L557.7188,64.3594 L557.7188,62.9063 L558.4531,62.9063 L558.4531,52.875 L557.7188,52.875 L557.7188,51.4219 L561.7188,51.4219 L561.7188,52.875 L560.9844,52.875 L560.9844,62.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="74" x="574" y="63.7285">Use Case 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="546" x2="650" y1="74" y2="74"/><line style="stroke:#181818;stroke-width:0.5;" x1="546" x2="650" y1="82" y2="82"/></g><!--MD5=[b83bec1dbb421e2dcbe52e2abe580bd0]
+class UseCase3--><g id="elem_UseCase3"><rect codeLine="17" fill="#F1F1F1" height="48" id="UseCase3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="404" y="42"/><ellipse cx="419" cy="58" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M419.9844,62.9063 L420.7188,62.9063 L420.7188,64.3594 L416.7188,64.3594 L416.7188,62.9063 L417.4531,62.9063 L417.4531,52.875 L416.7188,52.875 L416.7188,51.4219 L420.7188,51.4219 L420.7188,52.875 L419.9844,52.875 L419.9844,62.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="74" x="433" y="63.7285">Use Case 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="405" x2="509" y1="74" y2="74"/><line style="stroke:#181818;stroke-width:0.5;" x1="405" x2="509" y1="82" y2="82"/></g><!--MD5=[ad350c72487c8898fe538498104bb16e]
+class Presenter1--><g id="elem_Presenter1"><rect codeLine="22" fill="#F1F1F1" height="48" id="Presenter1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="908" y="210"/><ellipse cx="923" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M925.7031,231.4375 Q924.7813,232.3594 922.5156,232.3594 Q921.25,232.3594 920.3281,231.4375 Q918.6719,229.7813 918.6719,226.25 Q918.6719,222.1406 920.4531,220.3438 Q921.3906,219.4219 922.5781,219.4219 Q924.8438,219.4219 925.5781,220.1406 Q926.9688,221.5469 926.9063,223.9375 L924.4375,223.9375 Q924.375,221.8125 923.6406,221.0781 Q923.25,220.6719 922.5781,220.6719 Q922.5781,220.6719 922.5156,221.1406 Q921.1875,222.4688 921.1875,226.125 Q921.1875,229.3125 922.3281,230.4375 Q922.8594,230.9688 922.8594,230.9688 Q923.1094,230.9688 923.6406,230.4375 Q924.3125,229.7813 924.375,227.3906 L926.9688,227.3906 Q926.7656,230.375 925.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="937" y="231.7285">Presenter 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="909" x2="1013" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="909" x2="1013" y1="250" y2="250"/></g><!--MD5=[a0c42359a9e8411337dad0efe5560070]
+class Presenter2--><g id="elem_Presenter2"><rect codeLine="23" fill="#F1F1F1" height="48" id="Presenter2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="767" y="210"/><ellipse cx="782" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M784.7031,231.4375 Q783.7813,232.3594 781.5156,232.3594 Q780.25,232.3594 779.3281,231.4375 Q777.6719,229.7813 777.6719,226.25 Q777.6719,222.1406 779.4531,220.3438 Q780.3906,219.4219 781.5781,219.4219 Q783.8438,219.4219 784.5781,220.1406 Q785.9688,221.5469 785.9063,223.9375 L783.4375,223.9375 Q783.375,221.8125 782.6406,221.0781 Q782.25,220.6719 781.5781,220.6719 Q781.5781,220.6719 781.5156,221.1406 Q780.1875,222.4688 780.1875,226.125 Q780.1875,229.3125 781.3281,230.4375 Q781.8594,230.9688 781.8594,230.9688 Q782.1094,230.9688 782.6406,230.4375 Q783.3125,229.7813 783.375,227.3906 L785.9688,227.3906 Q785.7656,230.375 784.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="796" y="231.7285">Presenter 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="768" x2="872" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="768" x2="872" y1="250" y2="250"/></g><!--MD5=[5874ed20e6ecdae17c649e966ee70a73]
+class Presenter3--><g id="elem_Presenter3"><rect codeLine="24" fill="#F1F1F1" height="48" id="Presenter3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="626" y="210"/><ellipse cx="641" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M643.7031,231.4375 Q642.7813,232.3594 640.5156,232.3594 Q639.25,232.3594 638.3281,231.4375 Q636.6719,229.7813 636.6719,226.25 Q636.6719,222.1406 638.4531,220.3438 Q639.3906,219.4219 640.5781,219.4219 Q642.8438,219.4219 643.5781,220.1406 Q644.9688,221.5469 644.9063,223.9375 L642.4375,223.9375 Q642.375,221.8125 641.6406,221.0781 Q641.25,220.6719 640.5781,220.6719 Q640.5781,220.6719 640.5156,221.1406 Q639.1875,222.4688 639.1875,226.125 Q639.1875,229.3125 640.3281,230.4375 Q640.8594,230.9688 640.8594,230.9688 Q641.1094,230.9688 641.6406,230.4375 Q642.3125,229.7813 642.375,227.3906 L644.9688,227.3906 Q644.7656,230.375 643.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="655" y="231.7285">Presenter 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="627" x2="731" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="627" x2="731" y1="250" y2="250"/></g><!--MD5=[beaa385b373d77fdccad8b0565caf4a6]
+class Controller1--><g id="elem_Controller1"><rect codeLine="27" fill="#F1F1F1" height="48" id="Controller1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="464" y="210"/><ellipse cx="479" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M481.7031,231.4375 Q480.7813,232.3594 478.5156,232.3594 Q477.25,232.3594 476.3281,231.4375 Q474.6719,229.7813 474.6719,226.25 Q474.6719,222.1406 476.4531,220.3438 Q477.3906,219.4219 478.5781,219.4219 Q480.8438,219.4219 481.5781,220.1406 Q482.9688,221.5469 482.9063,223.9375 L480.4375,223.9375 Q480.375,221.8125 479.6406,221.0781 Q479.25,220.6719 478.5781,220.6719 Q478.5781,220.6719 478.5156,221.1406 Q477.1875,222.4688 477.1875,226.125 Q477.1875,229.3125 478.3281,230.4375 Q478.8594,230.9688 478.8594,230.9688 Q479.1094,230.9688 479.6406,230.4375 Q480.3125,229.7813 480.375,227.3906 L482.9688,227.3906 Q482.7656,230.375 481.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="493" y="231.7285">Controller 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="465" x2="569" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="465" x2="569" y1="250" y2="250"/></g><!--MD5=[ec533e48db8b0af72cdf123c81a1684b]
+class Controller2--><g id="elem_Controller2"><rect codeLine="28" fill="#F1F1F1" height="48" id="Controller2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="323" y="210"/><ellipse cx="338" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M340.7031,231.4375 Q339.7813,232.3594 337.5156,232.3594 Q336.25,232.3594 335.3281,231.4375 Q333.6719,229.7813 333.6719,226.25 Q333.6719,222.1406 335.4531,220.3438 Q336.3906,219.4219 337.5781,219.4219 Q339.8438,219.4219 340.5781,220.1406 Q341.9688,221.5469 341.9063,223.9375 L339.4375,223.9375 Q339.375,221.8125 338.6406,221.0781 Q338.25,220.6719 337.5781,220.6719 Q337.5781,220.6719 337.5156,221.1406 Q336.1875,222.4688 336.1875,226.125 Q336.1875,229.3125 337.3281,230.4375 Q337.8594,230.9688 337.8594,230.9688 Q338.1094,230.9688 338.6406,230.4375 Q339.3125,229.7813 339.375,227.3906 L341.9688,227.3906 Q341.7656,230.375 340.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="352" y="231.7285">Controller 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="324" x2="428" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="324" x2="428" y1="250" y2="250"/></g><!--MD5=[b6e16876e2ba0f2adecaf8cab8b4c425]
+class Controller3--><g id="elem_Controller3"><rect codeLine="29" fill="#F1F1F1" height="48" id="Controller3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="106" x="182" y="210"/><ellipse cx="197" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M199.7031,231.4375 Q198.7813,232.3594 196.5156,232.3594 Q195.25,232.3594 194.3281,231.4375 Q192.6719,229.7813 192.6719,226.25 Q192.6719,222.1406 194.4531,220.3438 Q195.3906,219.4219 196.5781,219.4219 Q198.8438,219.4219 199.5781,220.1406 Q200.9688,221.5469 200.9063,223.9375 L198.4375,223.9375 Q198.375,221.8125 197.6406,221.0781 Q197.25,220.6719 196.5781,220.6719 Q196.5781,220.6719 196.5156,221.1406 Q195.1875,222.4688 195.1875,226.125 Q195.1875,229.3125 196.3281,230.4375 Q196.8594,230.9688 196.8594,230.9688 Q197.1094,230.9688 197.6406,230.4375 Q198.3125,229.7813 198.375,227.3906 L200.9688,227.3906 Q200.7656,230.375 199.7031,231.4375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="211" y="231.7285">Controller 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="183" x2="287" y1="242" y2="242"/><line style="stroke:#181818;stroke-width:0.5;" x1="183" x2="287" y1="250" y2="250"/></g><!--MD5=[3d8d76e8de47d1859d1bce2cf8ecedcf]
+class Gateway1--><g id="elem_Gateway1"><rect codeLine="32" fill="#F1F1F1" height="48" id="Gateway1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="904.5" y="334"/><ellipse cx="919.5" cy="350" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M920.4844,354.9063 L921.2188,354.9063 L921.2188,356.3594 L917.2188,356.3594 L917.2188,354.9063 L917.9531,354.9063 L917.9531,344.875 L917.2188,344.875 L917.2188,343.4219 L921.2188,343.4219 L921.2188,344.875 L920.4844,344.875 L920.4844,354.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="67" x="933.5" y="355.7285">Gateway 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="905.5" x2="1002.5" y1="366" y2="366"/><line style="stroke:#181818;stroke-width:0.5;" x1="905.5" x2="1002.5" y1="374" y2="374"/></g><!--MD5=[f644d1b25c1d282834b687479e3a4353]
+class Gateway2--><g id="elem_Gateway2"><rect codeLine="33" fill="#F1F1F1" height="48" id="Gateway2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="770.5" y="334"/><ellipse cx="785.5" cy="350" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M786.4844,354.9063 L787.2188,354.9063 L787.2188,356.3594 L783.2188,356.3594 L783.2188,354.9063 L783.9531,354.9063 L783.9531,344.875 L783.2188,344.875 L783.2188,343.4219 L787.2188,343.4219 L787.2188,344.875 L786.4844,344.875 L786.4844,354.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="67" x="799.5" y="355.7285">Gateway 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="771.5" x2="868.5" y1="366" y2="366"/><line style="stroke:#181818;stroke-width:0.5;" x1="771.5" x2="868.5" y1="374" y2="374"/></g><!--MD5=[0be471c904f3aac31dfb53cfeac59def]
+class Gateway3--><g id="elem_Gateway3"><rect codeLine="34" fill="#F1F1F1" height="48" id="Gateway3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="636.5" y="334"/><ellipse cx="651.5" cy="350" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M652.4844,354.9063 L653.2188,354.9063 L653.2188,356.3594 L649.2188,356.3594 L649.2188,354.9063 L649.9531,354.9063 L649.9531,344.875 L649.2188,344.875 L649.2188,343.4219 L653.2188,343.4219 L653.2188,344.875 L652.4844,344.875 L652.4844,354.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="67" x="665.5" y="355.7285">Gateway 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="637.5" x2="734.5" y1="366" y2="366"/><line style="stroke:#181818;stroke-width:0.5;" x1="637.5" x2="734.5" y1="374" y2="374"/></g><!--MD5=[82f2889e503d118a7baae6c3de4b499d]
+class Framework1--><g id="elem_Framework1"><rect codeLine="40" fill="#F1F1F1" height="48" id="Framework1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="115" x="1121.5" y="526"/><ellipse cx="1136.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1137.4844,546.9063 L1138.2188,546.9063 L1138.2188,548.3594 L1134.2188,548.3594 L1134.2188,546.9063 L1134.9531,546.9063 L1134.9531,536.875 L1134.2188,536.875 L1134.2188,535.4219 L1138.2188,535.4219 L1138.2188,536.875 L1137.4844,536.875 L1137.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="83" x="1150.5" y="547.7285">Framework 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="1122.5" x2="1235.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="1122.5" x2="1235.5" y1="566" y2="566"/></g><!--MD5=[850cf1d0d6bb6d46e7887855e0b27512]
+class Framework2--><g id="elem_Framework2"><rect codeLine="41" fill="#F1F1F1" height="48" id="Framework2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="115" x="971.5" y="526"/><ellipse cx="986.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M987.4844,546.9063 L988.2188,546.9063 L988.2188,548.3594 L984.2188,548.3594 L984.2188,546.9063 L984.9531,546.9063 L984.9531,536.875 L984.2188,536.875 L984.2188,535.4219 L988.2188,535.4219 L988.2188,536.875 L987.4844,536.875 L987.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="83" x="1000.5" y="547.7285">Framework 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="972.5" x2="1085.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="972.5" x2="1085.5" y1="566" y2="566"/></g><!--MD5=[40b8413f8f7b3e8c49db6118acdbb65a]
+class Framework3--><g id="elem_Framework3"><rect codeLine="42" fill="#F1F1F1" height="48" id="Framework3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="115" x="821.5" y="526"/><ellipse cx="836.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M837.4844,546.9063 L838.2188,546.9063 L838.2188,548.3594 L834.2188,548.3594 L834.2188,546.9063 L834.9531,546.9063 L834.9531,536.875 L834.2188,536.875 L834.2188,535.4219 L838.2188,535.4219 L838.2188,536.875 L837.4844,536.875 L837.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="83" x="850.5" y="547.7285">Framework 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="822.5" x2="935.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="822.5" x2="935.5" y1="566" y2="566"/></g><!--MD5=[994f38406984e578fdf3da208780bbfe]
+class Driver1--><g id="elem_Driver1"><rect codeLine="45" fill="#F1F1F1" height="48" id="Driver1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="81" x="683.5" y="526"/><ellipse cx="698.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M699.4844,546.9063 L700.2188,546.9063 L700.2188,548.3594 L696.2188,548.3594 L696.2188,546.9063 L696.9531,546.9063 L696.9531,536.875 L696.2188,536.875 L696.2188,535.4219 L700.2188,535.4219 L700.2188,536.875 L699.4844,536.875 L699.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="49" x="712.5" y="547.7285">Driver 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="684.5" x2="763.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="684.5" x2="763.5" y1="566" y2="566"/></g><!--MD5=[324975eb9fa9600e5854414f4d633cf5]
+class Driver2--><g id="elem_Driver2"><rect codeLine="46" fill="#F1F1F1" height="48" id="Driver2" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="81" x="567.5" y="526"/><ellipse cx="582.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M583.4844,546.9063 L584.2188,546.9063 L584.2188,548.3594 L580.2188,548.3594 L580.2188,546.9063 L580.9531,546.9063 L580.9531,536.875 L580.2188,536.875 L580.2188,535.4219 L584.2188,535.4219 L584.2188,536.875 L583.4844,536.875 L583.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="49" x="596.5" y="547.7285">Driver 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="568.5" x2="647.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="568.5" x2="647.5" y1="566" y2="566"/></g><!--MD5=[088f53ab1a731cd1adc472335eae952f]
+class Driver3--><g id="elem_Driver3"><rect codeLine="47" fill="#F1F1F1" height="48" id="Driver3" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="81" x="451.5" y="526"/><ellipse cx="466.5" cy="542" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M467.4844,546.9063 L468.2188,546.9063 L468.2188,548.3594 L464.2188,548.3594 L464.2188,546.9063 L464.9531,546.9063 L464.9531,536.875 L464.2188,536.875 L464.2188,535.4219 L468.2188,535.4219 L468.2188,536.875 L467.4844,536.875 L467.4844,546.9063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="49" x="480.5" y="547.7285">Driver 3</text><line style="stroke:#181818;stroke-width:0.5;" x1="452.5" x2="531.5" y1="558" y2="558"/><line style="stroke:#181818;stroke-width:0.5;" x1="452.5" x2="531.5" y1="566" y2="566"/></g><!--MD5=[b832146e3e36eb86b53148257ba878ed]
+link Entity1 to Entity2--><g id="link_Entity1_Entity2"><path codeLine="51" d="M62,90.08 C62,115.78 62,157.88 62,189.75 " fill="none" id="Entity1-to-Entity2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="69,189.85,62,209.85,55,189.85,69,189.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b7d33699bc4382d3b0ca2c0b7381364a]
+link Entity2 to Entity3--><g id="link_Entity2_Entity3"><path codeLine="52" d="M62,258.23 C62,273.92 62,295.1 62,313.83 " fill="none" id="Entity2-to-Entity3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="69,313.85,62,333.85,55,313.85,69,313.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6600873f2025cc432363bd9cd9c9a3ac]
+link UseCase1 to Presenter1--><g id="link_UseCase1_Presenter1"><path codeLine="54" d="M792.2,77.14 C823.53,85.19 862.47,99.04 891,122 C918.45,144.1 938.29,180.02 949.69,204.99 " fill="none" id="UseCase1-to-Presenter1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="951.85,209.83,951.83,199.9812,949.81,205.2651,944.5261,203.2451,951.85,209.83" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1f0703cc7dcacd69c1a61751d9056603]
+link UseCase2 to Presenter2--><g id="link_UseCase2_Presenter2"><path codeLine="55" d="M625.99,90.11 C638.42,99.11 653.68,108.55 669,114 C703.09,126.12 719.22,102.99 750,122 C780.66,140.94 800.15,178.84 810.57,205.05 " fill="none" id="UseCase2-to-Presenter2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="812.42,209.8,812.8802,199.9619,810.605,205.1411,805.4259,202.8659,812.42,209.8" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2e9ff902f12b96f0c26526cf3c46a728]
+link UseCase3 to Presenter3--><g id="link_UseCase3_Presenter3"><path codeLine="56" d="M485.43,90.07 C497.82,98.94 512.93,108.31 528,114 C552.35,123.19 563.23,109.41 586,122 C620.94,141.32 648.32,179.39 664.07,205.51 " fill="none" id="UseCase3-to-Presenter3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="666.69,209.92,665.5278,200.14,664.1343,205.6225,658.6518,204.229,666.69,209.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[498cb714110cfe1a482f4680cf666b1f]
+link Controller1 to UseCase1--><g id="link_Controller1_UseCase1"><path codeLine="58" d="M529.3,209.9 C544.52,183.83 573.02,142.4 610,122 C633.17,109.22 644.26,123.4 669,114 C682.28,108.95 695.56,100.98 706.92,93.02 " fill="none" id="Controller1-to-UseCase1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="711.02,90.09,701.3734,92.0758,706.9542,93.0002,706.0298,98.581,711.02,90.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b1c7df07081cb5a14466514c15a136d7]
+link Controller2 to UseCase2--><g id="link_Controller2_UseCase2"><path codeLine="59" d="M383.79,209.79 C393.9,183.62 414.24,142.09 447,122 C477.84,103.09 493.95,126.23 528,114 C541.5,109.15 554.91,101.13 566.34,93.08 " fill="none" id="Controller2-to-UseCase2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="570.45,90.11,560.8114,92.1342,566.3959,93.0364,565.4937,98.6209,570.45,90.11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7c28a051bb5d642f8f5f8280d7751fda]
+link Controller3 to UseCase3--><g id="link_Controller3_UseCase3"><path codeLine="60" d="M244.37,209.84 C255.56,184.89 276.54,145.6 306,122 C332.76,100.56 368.62,87.03 398.68,78.76 " fill="none" id="Controller3-to-UseCase3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="403.84,77.37,394.1138,75.8204,399.0084,78.6565,396.1723,83.5511,403.84,77.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b1bbdf66158dc9a0d8882ddb5b3c3595]
+link Presenter1 to Gateway1--><g id="link_Presenter1_Gateway1"><path codeLine="62" d="M959.67,258.23 C958.51,278.33 956.84,307.45 955.61,328.86 " fill="none" id="Presenter1-to-Gateway1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="955.33,333.85,959.8384,325.0936,955.6161,328.8582,951.8515,324.6359,955.33,333.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[fa05efc7468f74b3649e7e875205f452]
+link Presenter2 to Gateway2--><g id="link_Presenter2_Gateway2"><path codeLine="63" d="M820,258.23 C820,278.25 820,307.2 820,328.59 " fill="none" id="Presenter2-to-Gateway2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="820,333.85,824,324.85,820,328.85,816,324.85,820,333.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9ef4cfd4ea54d60b7133827595512cff]
+link Presenter3 to Gateway3--><g id="link_Presenter3_Gateway3"><path codeLine="64" d="M680.33,258.23 C681.49,278.33 683.16,307.45 684.39,328.86 " fill="none" id="Presenter3-to-Gateway3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="684.67,333.85,688.1485,324.6359,684.3839,328.8582,680.1616,325.0936,684.67,333.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b0ec1ad0d12d702c09da30c5a5487e0e]
+link Gateway1 to Framework1--><g id="link_Gateway1_Framework1"><path codeLine="66" d="M1003.72,377.79 C1034.91,391.27 1074.63,411.68 1104,438 C1130.47,461.72 1152.06,496.67 1165.17,521 " fill="none" id="Gateway1-to-Framework1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1167.68,525.71,1166.9939,515.8851,1165.336,521.2935,1159.9275,519.6355,1167.68,525.71" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5422ddad4e90d1ffb7548d594adc5c69]
+link Gateway2 to Framework2--><g id="link_Gateway2_Framework2"><path codeLine="67" d="M835.24,382.26 C847.24,398.51 865.51,419.17 887,430 C913.78,443.49 928.4,422.38 954,438 C985.4,457.15 1006.63,495.01 1018.27,521.14 " fill="none" id="Gateway2-to-Framework2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1020.33,525.88,1020.3985,516.0314,1018.3312,521.2969,1013.0656,519.2295,1020.33,525.88" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[51dd98c79a9650e89a9d3a8172464613]
+link Gateway3 to Framework3--><g id="link_Gateway3_Framework3"><path codeLine="68" d="M702.58,382.27 C714.85,397.88 732.87,417.76 753,430 C764.06,436.72 770.05,431.09 781,438 C815.12,459.53 844.23,496.37 861.66,521.66 " fill="none" id="Gateway3-to-Framework3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="864.56,525.93,862.7959,516.2404,861.7438,521.7986,856.1856,520.7464,864.56,525.93" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[34c685661cf37e3fca43738cc6357b3b]
+link Gateway1 to Driver1--><g id="link_Gateway1_Driver1"><path codeLine="70" d="M939.08,382.05 C927.12,398.43 908.76,419.33 887,430 C854.12,446.12 836.8,419.84 805,438 C772.24,456.71 749.04,494.67 736.09,520.95 " fill="none" id="Gateway1-to-Driver1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="733.8,525.71,741.3138,519.3427,735.9729,521.2069,734.1088,515.866,733.8,525.71" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[90f52127ad91df96481bc5e3c95e6d90]
+link Gateway2 to Driver2--><g id="link_Gateway2_Driver2"><path codeLine="71" d="M805.1,382.09 C793.14,398.48 774.79,419.39 753,430 C735.54,438.5 682.13,427.19 666,438 C637.55,457.07 622.16,494.69 614.52,520.82 " fill="none" id="Gateway2-to-Driver2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="613.09,525.88,619.3819,518.3029,614.4466,521.0676,611.682,516.1323,613.09,525.88" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[be589832ee57aa7ed6aeb1645fde1bf8]
+link Gateway3 to Driver3--><g id="link_Gateway3_Driver3"><path codeLine="72" d="M636.44,379.4 C608.42,392.83 574.25,412.64 550,438 C527.04,462.01 510.82,496.91 501.48,521.14 " fill="none" id="Gateway3-to-Driver3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="499.7,525.84,506.6312,518.843,501.4728,521.1648,499.151,516.0065,499.7,525.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bd7f9b1212550e7f8df66d7644fa9790]
+@startuml relative
+
+!define MAINFONT_SIZE 14
+!define HEADERFONT_SIZE 16
+
+skinparam defaultTextAlignment center
+skinparam packageTitleAlignment center
+
+package "Entities" {
+    class "Entity 1" as Entity1
+    class "Entity 2" as Entity2
+    class "Entity 3" as Entity3
+}
+
+package "Use Cases" {
+    interface "Use Case 1" as UseCase1
+    interface "Use Case 2" as UseCase2
+    interface "Use Case 3" as UseCase3
+}
+
+package "Interface Adapters" {
+    package "Presenters" {
+        class "Presenter 1" as Presenter1
+        class "Presenter 2" as Presenter2
+        class "Presenter 3" as Presenter3
+    }
+    package "Controllers" {
+        class "Controller 1" as Controller1
+        class "Controller 2" as Controller2
+        class "Controller 3" as Controller3
+    }
+    package "Gateways" {
+        interface "Gateway 1" as Gateway1
+        interface "Gateway 2" as Gateway2
+        interface "Gateway 3" as Gateway3
+    }
+}
+
+package "Frameworks & Drivers" {
+    package "Frameworks" {
+        interface "Framework 1" as Framework1
+        interface "Framework 2" as Framework2
+        interface "Framework 3" as Framework3
+    }
+    package "Drivers" {
+        interface "Driver 1" as Driver1
+        interface "Driver 2" as Driver2
+        interface "Driver 3" as Driver3
+    }
+}
+
+Entity1 - -|> Entity2
+Entity2 - -|> Entity3
+
+UseCase1 - -> Presenter1
+UseCase2 - -> Presenter2
+UseCase3 - -> Presenter3
+
+Controller1 - -> UseCase1
+Controller2 - -> UseCase2
+Controller3 - -> UseCase3
+
+Presenter1 - -> Gateway1
+Presenter2 - -> Gateway2
+Presenter3 - -> Gateway3
+
+Gateway1 - -> Framework1
+Gateway2 - -> Framework2
+Gateway3 - -> Framework3
+
+Gateway1 - -> Driver1
+Gateway2 - -> Driver2
+Gateway3 - -> Driver3
+
+@enduml
+
+@startuml relative
+
+
+skinparam defaultTextAlignment center
+skinparam packageTitleAlignment center
+
+package "Entities" {
+    class "Entity 1" as Entity1
+    class "Entity 2" as Entity2
+    class "Entity 3" as Entity3
+}
+
+package "Use Cases" {
+    interface "Use Case 1" as UseCase1
+    interface "Use Case 2" as UseCase2
+    interface "Use Case 3" as UseCase3
+}
+
+package "Interface Adapters" {
+    package "Presenters" {
+        class "Presenter 1" as Presenter1
+        class "Presenter 2" as Presenter2
+        class "Presenter 3" as Presenter3
+    }
+    package "Controllers" {
+        class "Controller 1" as Controller1
+        class "Controller 2" as Controller2
+        class "Controller 3" as Controller3
+    }
+    package "Gateways" {
+        interface "Gateway 1" as Gateway1
+        interface "Gateway 2" as Gateway2
+        interface "Gateway 3" as Gateway3
+    }
+}
+
+package "Frameworks & Drivers" {
+    package "Frameworks" {
+        interface "Framework 1" as Framework1
+        interface "Framework 2" as Framework2
+        interface "Framework 3" as Framework3
+    }
+    package "Drivers" {
+        interface "Driver 1" as Driver1
+        interface "Driver 2" as Driver2
+        interface "Driver 3" as Driver3
+    }
+}
+
+Entity1 - -|> Entity2
+Entity2 - -|> Entity3
+
+UseCase1 - -> Presenter1
+UseCase2 - -> Presenter2
+UseCase3 - -> Presenter3
+
+Controller1 - -> UseCase1
+Controller2 - -> UseCase2
+Controller3 - -> UseCase3
+
+Presenter1 - -> Gateway1
+Presenter2 - -> Gateway2
+Presenter3 - -> Gateway3
+
+Gateway1 - -> Framework1
+Gateway2 - -> Framework2
+Gateway3 - -> Framework3
+
+Gateway1 - -> Driver1
+Gateway2 - -> Driver2
+Gateway3 - -> Driver3
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

@@ -1,0 +1,20 @@
+@startuml
+(*) --> "前処理1"
+
+if "NG" then
+  -->[true] "Error Message"
+else
+  -->[false] "前処理2"
+    if "NG" then
+      -->[true] "Error Message"
+      --> (*)
+    else
+      -->[false] "Main処理"
+      -->"ファイル取得"
+      -->"ファイル変換"
+      -->"ファイル出力"
+      --> (*)
+    endif
+endif
+
+@enduml

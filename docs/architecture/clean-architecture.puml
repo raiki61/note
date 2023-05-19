@@ -1,0 +1,176 @@
+@startuml relative
+
+!define MAINFONT_SIZE 14
+!define HEADERFONT_SIZE 16
+
+skinparam defaultTextAlignment center
+skinparam packageTitleAlignment center
+
+package "Entities" {
+    class "Entity 1" as Entity1
+    class "Entity 2" as Entity2
+    class "Entity 3" as Entity3
+}
+
+package "Use Cases" {
+    interface "Use Case 1" as UseCase1
+    interface "Use Case 2" as UseCase2
+    interface "Use Case 3" as UseCase3
+}
+
+package "Interface Adapters" {
+    package "Presenters" {
+        class "Presenter 1" as Presenter1
+        class "Presenter 2" as Presenter2
+        class "Presenter 3" as Presenter3
+    }
+    package "Controllers" {
+        class "Controller 1" as Controller1
+        class "Controller 2" as Controller2
+        class "Controller 3" as Controller3
+    }
+    package "Gateways" {
+        interface "Gateway 1" as Gateway1
+        interface "Gateway 2" as Gateway2
+        interface "Gateway 3" as Gateway3
+    }
+}
+
+package "Frameworks & Drivers" {
+    package "Frameworks" {
+        interface "Framework 1" as Framework1
+        interface "Framework 2" as Framework2
+        interface "Framework 3" as Framework3
+    }
+    package "Drivers" {
+        interface "Driver 1" as Driver1
+        interface "Driver 2" as Driver2
+        interface "Driver 3" as Driver3
+    }
+}
+
+Entity1 --|> Entity2
+Entity2 --|> Entity3
+
+UseCase1 --> Presenter1
+UseCase2 --> Presenter2
+UseCase3 --> Presenter3
+
+Controller1 --> UseCase1
+Controller2 --> UseCase2
+Controller3 --> UseCase3
+
+Presenter1 --> Gateway1
+Presenter2 --> Gateway2
+Presenter3 --> Gateway3
+
+Gateway1 --> Framework1
+Gateway2 --> Framework2
+Gateway3 --> Framework3
+
+Gateway1 --> Driver1
+Gateway2 --> Driver2
+Gateway3 --> Driver3
+
+@enduml
+
+@startuml socket
+
+package "Application" {
+  interface UseCaseInterface
+  class UseCaseImplementation
+}
+
+package "Domain" {
+  interface RepositoryInterface
+  class RepositoryImplementation
+  class Entity
+}
+
+package "Interface Adapters" {
+  interface GatewayInterface
+  class GatewayImplementation
+  class SocketConnection
+}
+
+UseCaseInterface --> UseCaseImplementation
+RepositoryInterface --> RepositoryImplementation
+GatewayInterface --> GatewayImplementation
+SocketConnection --> GatewayInterface
+
+@enduml
+
+
+@startuml 実装クリーンアーキテクチャ
+
+package "Domain" {
+  skinparam packageStyle rectangle
+
+  package "Entities" {
+    class "EntityA" as entityA
+    class "EntityB" as entityB
+  }
+
+  package "Use Cases" {
+    class "UseCaseA" as useCaseA
+    class "UseCaseB" as useCaseB
+  }
+
+  package "Interfaces" {
+    class "InterfaceA" as interfaceA
+    class "InterfaceB" as interfaceB
+  }
+
+  entityA <-- useCaseA
+  entityB <-- useCaseB
+  useCaseA <|.. interfaceA
+  useCaseB <|.. interfaceB
+}
+
+package "Application" {
+  skinparam packageStyle rectangle
+
+  package "Services" {
+    class "ServiceA" as serviceA
+    class "ServiceB" as serviceB
+  }
+
+  serviceA ..> useCaseA
+  serviceB ..> useCaseB
+}
+
+package "Interface Adapters" {
+  skinparam packageStyle rectangle
+
+  package "Presenters" {
+    class "PresenterA" as presenterA
+    class "PresenterB" as presenterB
+  }
+
+  package "Controllers" {
+    class "ControllerA" as controllerA
+    class "ControllerB" as controllerB
+  }
+
+  package "Gateways" {
+    class "GatewayA" as gatewayA
+    class "GatewayB" as gatewayB
+  }
+
+  presenterA ..> interfaceA
+  presenterB ..> interfaceB
+  controllerA ..> interfaceA
+  controllerB ..> interfaceB
+  gatewayA ..> interfaceA
+  gatewayB ..> interfaceB
+}
+
+interfaceA ..> presenterA
+interfaceB ..> presenterB
+interfaceA ..> controllerA
+interfaceB ..> controllerB
+interfaceA ..> gatewayA
+interfaceB ..> gatewayB
+
+@enduml
+
